@@ -40,3 +40,6 @@ Finally I would like to say that relational databases will remain popular. They 
 
 ---
 
+You would use NoSQL for one main reason: scalability.
+
+If your application needs to handle millions of queries per second, the only way to achieve it is to add more servers. That is very cheap and easy with NoSQL. In contrast, scaling a traditional SQL database is much more complicated.
